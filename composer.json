@@ -1,7 +1,7 @@
 {
     "name": "nazo/laravel-reactphp",
     "type": "library",
-    "description": "ReactPHP Server On Laravel 5.0",
+    "description": "ReactPHP Server On Lumen 5.2",
     "keywords": ["ReactPHP", "Laravel", "server"],
     "homepage": "http://github.com/nazo/laravel-reactphp",
     "license": "MIT",
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "laravel/framework": "5.0.*",
+        "laravel/lumen-framework": "5.2.*",
         "react/react": "0.4.*"
     },
     "require-dev": {
